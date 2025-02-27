@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="deepl_logo">deepl logo</string>
+    <string name="halo_selamat_datang">Halo, Selamat Datang</string>
+</resources>
